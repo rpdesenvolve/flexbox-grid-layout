@@ -1,0 +1,7 @@
+@media screen and (min-width: 1440px) {
+    .destaque-produtos { grid-area: destaque-produtos; }
+
+    .produtos-recentes { grid-area: produtos-recentes; }
+
+    .secao-produtos { grid-area: secao-produtos; }
+}
